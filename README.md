@@ -1,3 +1,3 @@
 first
 second
-reset HEAD^
+
